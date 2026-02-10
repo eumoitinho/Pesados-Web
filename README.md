@@ -1,13 +1,15 @@
+
+
 <p align="center">
-  <!-- Troque pelo seu banner: /assets/hero.jpg -->
-  <img src="assets/hero.jpg" alt="Pesados Web — classificados de veículos pesados" width="100%" />
+  <img width="500" alt="Pesados Web — plataforma" src="https://github.com/user-attachments/assets/bb642d08-40fd-452c-add6-947e43c4c399" />
 </p>
 
-<h1 align="center">Pesados Web</h1>
+<p align="center">
+<img width="300" height="300" alt="logo png_Prancheta 1" src="https://github.com/user-attachments/assets/760d9ae6-04ba-418c-8878-ce4c5bb2ce27" />
+</p>
+
 
 <p align="center">
-
-
   Plataforma brasileira de classificados para <b>caminhões</b>, <b>cavalos mecânicos</b>, <b>carretas</b> e <b>implementos</b>.
   <br/>
   Feita pra publicar rápido, filtrar bem e vender com confiança.
@@ -15,24 +17,19 @@
 
 <p align="center">
   <a href="https://pesadosweb.com.br"><b>pesadosweb.com.br</b></a> •
-  <a href="[https://pesadosweb.com.br/](https://pesadosweb.com.br/trucks)"><b>Ver catálogo</b></a> •
-  <a href="[https://pesadosweb.com.br](https://pesadosweb.com.br/anunciar)"><b>Anunciar</b></a>
+  <a href="https://pesadosweb.com.br/trucks"><b>Ver catálogo</b></a> •
+  <a href="https://pesadosweb.com.br/anunciar"><b>Anunciar</b></a>
 </p>
 
 <p align="center">
-  <!-- poucos badges, só o que ajuda -->
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-14-black" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-✔-blue" />
   <img alt="Status" src="https://img.shields.io/badge/status-em%20produ%C3%A7%C3%A3o-success" />
 </p>
 
 ---
-<video src="[Wanderlei Silva](https://github.com/user-attachments/assets/e3bdede4-1f13-4eb3-abb1-97f707154f11)" controls width="100%"></video>
 
-
-
-
-
+https://github.com/user-attachments/assets/7c1e80df-69a5-46a4-ae38-9c57d9dbead2
 
 ---
 
@@ -71,27 +68,53 @@ Um dos fundadores é o lutador de MMA **Wanderlei Silva**.
 
 ---
 
-## Screenshots
+## Screenshots (telas reais)
 
-<details>
-  <summary><b>Ver screenshots</b></summary>
+### Home
 
-  ### Home
-  ![Home](screenshots/01-home-full.png)
+<img width="1000" alt="Fluxo de anúncio" src="https://github.com/user-attachments/assets/bb2b1102-c491-4342-b14e-93b4db969585" />
+<br/><br/>
+<img width="1000" alt="Fluxo de anúncio" src="https://github.com/user-attachments/assets/05b885a6-32d0-43f3-b351-57d31302c29d" />
+<br/><br/>
 
-  ### Catálogo
-  ![Catálogo](screenshots/02-catalogo.png)
+### Fluxo de anúncio
 
-  ### Detalhes
-  ![Detalhes](screenshots/03-detalhes-caminhao.png)
+<img width="1000" alt="Fluxo de anúncio" src="https://github.com/user-attachments/assets/058f9932-8bc6-44bd-bf3f-8647b71f78b0" />
+<br/><br/>
+<img width="1000" alt="Fluxo de anúncio" src="https://github.com/user-attachments/assets/aa7d6c4a-3fbb-48a9-96ec-5860c479a67f" />
+<br/><br/>
+<img width="1000" alt="Fluxo de anúncio" src="https://github.com/user-attachments/assets/b2e1a5b3-b0e6-4396-9389-4dedf8843d22" />
+<br/><br/>
+<img width="1000" alt="Fluxo de anúncio" src="https://github.com/user-attachments/assets/baddeef1-97ca-4d8a-9d70-57fa4bc990c7" />
 
-  ### Dashboard (Vendedor)
-  ![Dashboard](screenshots/05-dashboard-usuario.png)
+### Dashboard do vendedor
+<br/><br/>
+<img width="1000" alt="Dashboard do vendedor" src="https://github.com/user-attachments/assets/d023c069-d10d-4f3f-bd71-59825f3c7d6b" />
 
-  ### Admin
-  ![Admin](screenshots/10-admin-dashboard.png)
+### Admin (moderação e métricas)
+<br/><br/>
+<img width="1000" alt="Admin" src="https://github.com/user-attachments/assets/a2bce04a-2050-4f34-ae51-9a9ed7c3cbcc" />
 
-</details>
+### Marketing
+<br/><br/>
+<img width="1000" alt="Marketing" src="https://github.com/user-attachments/assets/ad4cda7d-ed36-4734-84f7-6c867f6e5b6c" />
+
+### Detalhes do anúncio e contato protegido
+<br/><br/>
+<img width="1000" alt="Detalhes do anúncio" src="https://github.com/user-attachments/assets/df11d45e-5567-44d4-8e43-f16ec1c0569f" />
+<br/><br/>
+<img width="1000" alt="Contato protegido" src="https://github.com/user-attachments/assets/77f51fa8-b803-4aab-996d-744ca46f8476" />
+<br/><br/>
+
+---
+
+https://github.com/user-attachments/assets/31421571-2e48-400b-8181-89f7b278a01d
+
+---
+
+### Favoritos
+<br/><br/>
+<img width="1000" alt="Favoritos" src="https://github.com/user-attachments/assets/cb8e2eae-0332-4e5e-90ee-69f6b7853de4" />
 
 ---
 
