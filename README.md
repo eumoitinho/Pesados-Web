@@ -4,13 +4,15 @@
 
 Marketplace completo que conecta compradores e vendedores de caminhões, cavalos mecânicos, carretas e implementos em todo o Brasil.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jtOKmMlz-vg?si=MAAzX0ff0pQ_sDix" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 > **Site em produção:** [pesadosweb.com.br](https://pesadosweb.com.br)
 
 ---
 
 ## Sobre o Projeto
 
-A Pesados Web foi desenvolvida do zero como uma plataforma SaaS de classificados voltada ao mercado de veículos pesados. O sistema conta com fluxo completo de publicação de anúncios, moderação administrativa, sistema de pagamentos integrado, marketing interno com créditos e geolocalização inteligente.
+A Pesados Web é um projeto de 2021, fundada em Curitiba, tendo como um dos fundadores o lutador de MMA Wanderlei Silva. Foi desenvolvida do zero apenas tendo eu como desenvolvedor do projeto como uma plataforma SaaS de classificados voltada ao mercado de veículos pesados. O sistema conta com fluxo completo de publicação de anúncios, moderação administrativa, sistema de pagamentos integrado, marketing interno com créditos e geolocalização inteligente.
 
 ### Desenvolvedor
 
@@ -29,7 +31,7 @@ A Pesados Web foi desenvolvida do zero como uma plataforma SaaS de classificados
 | Pagamentos | Asaas API (PIX, boleto, cartão) |
 | CMS | Sanity (produtos de marketing) |
 | Storage | AWS S3 + CloudFront CDN |
-| Deploy | Vercel |
+| Deploy | Azure |
 | Monitoramento | RD Station, Google Analytics |
 
 ---
@@ -114,7 +116,6 @@ A Pesados Web foi desenvolvida do zero como uma plataforma SaaS de classificados
 
 ## Licença
 
-Este software é propriedade intelectual de **João Vitor Moitinho Silva** (CNPJ: 55.942.611/0001-40).
 
 **Todos os direitos reservados.** Nenhuma parte deste software pode ser copiada, modificada, distribuída ou utilizada sem autorização expressa e por escrito do autor.
 
